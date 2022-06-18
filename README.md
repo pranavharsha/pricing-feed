@@ -2,7 +2,7 @@
 
 ## Prerequisites
 1. Postgresql is installed in your system
-2. Update Database Name, User, Password from settings.py file
+2. Update Database Name, User, Password in settings.py file
 ## Project Setup Instructions
 
 1. Go To Project Directory
